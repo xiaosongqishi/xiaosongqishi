@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jinsong Liu</h1>
 <h3 align="center"><a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology(HUST)</a>, Wuhan, China[Bachelor's degree]</h3>
+<h3 align="center">BE in EE</h3>
 <h3 align="center"><a href="https://www.columbia.edu/">Columbia University</a>, New York, USA[Master of Science]</h3>
 
 
