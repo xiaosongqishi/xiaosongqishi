@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jinsong Liu</h1>
-<h3 align="center"><a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology(HUST)</a>, Wuhan, China[Bachelor's degree]</h3>
+<h3 align="center"><a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology(HUST)</a>, Wuhan, China</h3>
 <h3 align="center">BE in EE</h3>
-<h3 align="center"><a href="https://www.columbia.edu/">Columbia University</a>, New York, USA[Master of Science]</h3>
-
+<h3 align="center"><a href="https://www.columbia.edu/">Columbia University</a>, New York, United States of American</h3>
+<h3 align="center">MS in EE</h3>
 
 - 📫 How to reach me: **pineknight.liu@gmail.com or jl6850@columbia.edu**
 
