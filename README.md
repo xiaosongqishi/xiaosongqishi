@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/need to be filled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="need to be filled" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//劲松-刘-99bb97270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/劲松-刘-99bb97270" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/jin-song-liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jin-song-liu" height="30" width="40" /></a>
 <a href="https://fb.com/need to be filled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="need to be filled" height="30" width="40" /></a>
 <a href="https://instagram.com/need to be filled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="need to be filled" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/need to be filled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="need to be filled" height="30" width="40" /></a>
