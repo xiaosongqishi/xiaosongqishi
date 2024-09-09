@@ -3,7 +3,7 @@
 <h3 align="center"><a href="https://www.columbia.edu/">Columbia University</a>, New York, USA[Master of Science]</h3>
 
 
-- 📫 How to reach me: **pineknight.liu@gmail.com or liujinsong1321@163.com**
+- 📫 How to reach me: **pineknight.liu@gmail.com or jl6850@columbia.edu**
 
 - ⚡ Fun fact: **Swimming enthusiast**
 
