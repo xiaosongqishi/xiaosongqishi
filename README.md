@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jinsong Liu</h1>
-<h3 align="center"><a href="https://www.hust.edu.cn/">Huazhong University of Science and Technology(HUST)</a>, Wuhan, China</h3>
-<h3 align="center">BE in EE</h3>
-<h3 align="center"><a href="https://www.columbia.edu/">Columbia University</a>, New York, United States of American</h3>
-<h3 align="center">MS in EE</h3>
+<h1 align="center">Hey 👋, I'm Ethan Liu</h1>
 
-- 📫 How to reach me: **pineknight.liu@gmail.com or jl6850@columbia.edu**
+- Explore my portfolio: https://xiaosongqishi.github.io/
 
-- ⚡ Fun fact: **Swimming enthusiast**
+- How to reach me: **pineknight.liu@gmail.com or jl6850@columbia.edu**
+
+- Fun fact: **Swimming enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
